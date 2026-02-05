@@ -29,3 +29,12 @@ Each entry includes:
 - [PC Vulnerability Assessment](./2026-02-05/pc-vulnerability-assessment.md) - Local system security review
 - [OpenClaw X Community News](./2026-02-05/openclaw-x-community-news.md) - Platform updates and community insights
 
+
+## Daily Summaries
+
+Automated daily summaries generated at midnight:
+
+- [February 5, 2026](./daily-summaries/2026-02-05-summary.md) - Voice transcription, cost optimization, perfect habit day
+
+View all summaries: [daily-summaries/](./daily-summaries/)
+
