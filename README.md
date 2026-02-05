@@ -20,3 +20,12 @@ Each entry includes:
 
 ---
 *Research summaries also published on blog: https://samsclaw-byte.github.io/sam-clawson-journey/*
+
+## Research Archive by Date
+
+### February 5, 2026
+- [QMD Memory Upgrade Research](./2026-02-05/qmd-memory-upgrade.md) - Debunked, not real technology
+- [OpenClaw Security Hardening](./2026-02-05/openclaw-security-hardening.md) - Security audit and recommendations
+- [PC Vulnerability Assessment](./2026-02-05/pc-vulnerability-assessment.md) - Local system security review
+- [OpenClaw X Community News](./2026-02-05/openclaw-x-community-news.md) - Platform updates and community insights
+
