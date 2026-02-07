@@ -128,15 +128,16 @@
 ### 8. TAT System
 
 **Is Today/3-Day/7-Day working? Or needs adjustment?**
-> *To be answered*
+> **Working well.** Quite likes the system. Won't set rigid targets on tasks per day, but thinks 1-4 tasks depending on complexity is realistic.
 
 **What's the ideal task capacity per day?**
-> *To be answered*
+> 1-4 tasks depending on complexity
 
 ### 9. Automation Wishlist
 
 **What daily decisions could be automated?**
-> *To be answered*
+> - Email triage/simplification (gets 150+ emails/day)
+> - Calendar management (birthdays, life admin from TimeTree)
 
 **What info do you want pushed to you vs pull on demand?**
 > *To be answered*
@@ -144,11 +145,19 @@
 ### 10. Integration Needs
 
 **What tools should sync better?**
-> Currently: Notion, Telegram, WHOOP (upcoming)
-> Want: Everything in one interface instead of multiple apps
+> Currently: Notion, Telegram, WHOOP
 
-**Any manual processes to eliminate?**
-> *To be answered*
+**Future integrations (security permitting):**
+> - Email (150+ per day) — major friction point
+> - Work Outlook/Exchange
+> - TimeTree calendar (life admin currently there)
+> - Google Calendar (birthdays, life admin)
+
+**Security concerns:**
+> Very concerned about email security. Won't connect to private email server. Work email integration has "big security concerns." Will wait until "tools of development security is much better."
+
+**Immediate task:**
+> One-time exercise: Update Google Calendar — transfer birthdays and life admin from TimeTree to Google Calendar, then integrate properly with system.
 
 ---
 
