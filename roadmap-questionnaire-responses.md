@@ -259,11 +259,17 @@
 
 ### 16. Cost Sensitivity
 
-**Current:** ~$100-120/month  
-**Comfortable max:** $____/month  
-**Hard limit:** $____/month
+**Personal Use:**
+| Level | Amount |
+|-------|--------|
+| Current | ~$100-120/month |
+| Comfortable max | $200/month |
+| Hard limit | $300/month |
 
-> *To be answered*
+**Business Use:**
+> **Flexible** — Fine to assign separate budgets for business opportunities and builds (e.g., Card Delivery App)
+> 
+> Business costs can scale separately from personal use, especially if generating revenue
 
 ---
 
@@ -352,23 +358,36 @@
 
 ---
 
-## ⏳ SECTION 9: PRACTICAL CONSTRAINTS
+## ✅ SECTION 9: PRACTICAL CONSTRAINTS
 
 ### 25. Budget (Monthly)
 
-- AI/API costs: $____ comfortable
-- Tools/Software: $____ comfortable  
-- Total tech spend: $____ comfortable
+**Personal AI/API Costs:**
+| Level | Amount | Notes |
+|-------|--------|-------|
+| Current | $100-120/month | Kimi K2.5 + K1 mix |
+| Comfortable max | $200/month | 66% headroom |
+| Hard limit | $300/month | Absolute ceiling |
 
-> *To be answered*
+**Business/Project Budget:**
+- **Flexible** — Separate budget for business builds
+- Card Delivery App, other ventures can scale independently
+- Revenue-generating projects can justify higher spend
+
+**Tools/Software:**
+- Notion: Included (existing)
+- WHOOP: ~$30/month (membership)
+- Other tools: TBD
 
 ### 26. Time Budget
 
-- Daily AI interaction time: **30 minutes** ✅
-- Weekly "system admin" time: **30 minutes** ✅
-- Weekend deep work sessions: ____ hours
+| Activity | Time |
+|----------|------|
+| Daily AI interaction | **30 minutes** ✅ |
+| Weekly "system admin" | **30 minutes** ✅ |
+| Weekend deep work | ____ hours |
 
-> Partially answered
+> Partially answered — need weekend deep work hours
 
 ### 27. Technical Comfort
 
