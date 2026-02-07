@@ -105,5 +105,85 @@ Sam explains the higher-level reasoning behind the AI partnership — above the 
 
 ---
 
+## File 3: Health & Fitness Details (file_18)
+
+**Recorded:** February 7, 2026  
+**Topics:** Health automation, injuries, fitness goals, professional help
+
+---
+
+**Key Points:**
+
+**Automation Preference:**
+- Fully automated as much as possible
+- Least friction, maximum API integration
+- Don't mind sending nutrition images
+- Not looking for too much manual work
+
+**Family:**
+- Sophie is recovering post-pregnancy — will take a few months
+- If Sam shows tracking/progress, she might get inspired to join
+
+**Current State:**
+- Feeling "around half" — overweight and not fit
+- 104kg starting weight
+- Wants to improve significantly
+
+**Injury History:**
+- Calf injuries from over-training
+- Tendency to run too much when enthusiastic
+- Pattern: Enthusiastic → over-train → injury → fall off
+- Struggles to find time to train
+
+**Goals:**
+- Broad fitness regime: weights + aerobic
+- Session with fitness instructor/trainer
+- Nutritionist consultation
+- Structured plan with tracking
+
+**Tracking Requirements:**
+- Calories in / calories out
+- Resting heart rate
+- Fitness metrics (WHOOP data)
+- Progress monitoring
+- Injury prevention
+
+**Raw Transcription:**
+> Hey, Clawson, around the health and fitness side. I just thought I'd give a bit of detail to you. So I would like it to be fully automated as much as possible. That would be great. I don't mind in terms of nutrition, sending in images. But basically the least friction, as possible in the most API integration to work, etc, would be ideal. Not looking to get too far bogged down or have too much admin. Now maybe that's something that comes later. Sophie is still recovering, post pregnancy, so it'll take a few months to be able to join. But maybe if I can show her something and tracking, I can get her ready to join a bit later. It was around half, I'm feeling overweight and definitely not fit. So I would definitely like to improve that. What I would like to do is I would like to perhaps have a session with like a trainer. Because I think this is a mission I want to work around. I want kind of a bit of a broad fitness regime, weights, some aerobic, etc, etc. I do have a couple of injuries from the current situation. So when I start training again, I often have a lot of passion for it. And then I over-train and I often get calf injuries and stuff. I feel like I run too much. Yeah. But yeah, typically what happens is I'm very enthusiastic and then I fall off the wagon. I struggle to find time to do it. And I think tracking would definitely help. Hopefully that's covered everything. But yeah, I'm thinking here, I want to have a session with like a fitness instructor, a nutritionist and I kind of want it all to be tracked. I want to know this is what I'm eating, and this is the calories in and the calories out. How are things improving, resting heart rate, different fitness metrics, etc. etc.
+
+---
+
+## File 4: Productivity & Organization (file_19)
+
+**Recorded:** February 7, 2026  
+**Topics:** TAT system, calendar integration, email, security concerns
+
+---
+
+**Key Points:**
+
+**TAT System:**
+- Working well, likes it
+- 1-4 tasks per day depending on complexity
+- Not setting rigid targets
+
+**Calendar Integration:**
+- Likes current calendar integration
+- Immediate task: One-time update of Google Calendar
+- Need to transfer birthdays and life admin from TimeTree to Google Calendar
+
+**Email Integration (Future):**
+- Gets 150+ emails per day — major friction point
+- Would simplify life significantly
+- **Security concerns:** Very concerned about email security
+- Won't connect to private email server
+- Work Outlook/Exchange integration has "big security concerns"
+- Will wait until "tools of development security is much better"
+
+**Raw Transcription:**
+> We've got into the organization section of this exercise. In general I think the session has been managed quite well. I quite like the TAT system one day three days seven days, etc. I'm not going to set myself too many targets in terms of how many to clear a day but I think I could clear like one to four depending on the complexity, etc. So yeah I think that's working quite well. I quite like the calendar integration. I think in future I might integrate with my email but I'm very concerned about security so I don't want to let it onto my own private email server. The dream would be that it's integrated with my work emails and outlook but again there's big security concerns there. I do get a lot of emails a day maybe 150 plus so to simplify that would go a long way to make my life a lot easier but I think that would come in a future iteration when these tools of development security is much better. What else? Yeah I think one thing specifically I was thinking about is I need to assign a task where I update my Google calendar just to do it as a one time exercise where I'd add all my birthdays and I transfer over what I mean my life admin from a different calendar called TimeTree and integrate that properly.
+
+---
+
 *Transcribed by Clawson using Whisper Tiny (local)*  
 *Date: February 7, 2026*
