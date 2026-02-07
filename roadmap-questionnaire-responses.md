@@ -466,9 +466,13 @@ Daily Ongoing Research:**
 |----------|------|
 | Daily AI interaction | **30 minutes** ✅ |
 | Weekly "system admin" | **30 minutes** ✅ |
-| Weekend deep work | ____ hours |
+| Weekend deep work | **TBD** — figuring out |
 
-> Partially answered — need weekend deep work hours
+> **Acknowledged difficulty:** With new baby (Theo 3 weeks), return to work, and family commitments, set deep work hours are challenging right now
+> 
+> **Approach:** Will establish as patterns emerge — no rigid commitment yet
+> 
+> **For now:** Use pockets of time (morning/evening) + migrate to structured sessions when life stabilizes
 
 ### 27. Technical Comfort
 
