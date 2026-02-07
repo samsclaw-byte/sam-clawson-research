@@ -283,14 +283,31 @@
 **Audience goal?**
 > Share with others, make it simple to understand, document journey for followers
 > Brother joining = community building starting
+> **Reflection tool** — look back on progress
+> **Onboarding tool** — help others who join see the journey
 
 ### 18. Research Pipeline
 
-**What topics interest you for automated research?**
-> *To be answered*
+**Daily Ongoing Research:**
+
+| Topic | Frequency | Delivery |
+|-------|-----------|----------|
+| 🤖 General AI news | Daily | Digest format |
+| 🦞 OpenClaw & ecosystem news | Daily | Digest format |
+| ⚙️ System updates | Daily | Check latest features, versions, memory updates |
+| 📊 OpenClaw architecture | One-time | System chart showing components (memory, SOUL.md, cron, etc.) |
+
+**Research Approach:**
+- Start with broad daily digests (AI + OpenClaw)
+- Monitor for new features (memory systems, updates)
+- Ask for specific deep-dives when delving into sub-topics/projects
+- Build internal documentation (system chart) for understanding
 
 **How should findings be delivered?**
-> *To be answered*
+> Daily summaries in existing format
+> Save to research archive for reference
+> Blog posts for major discoveries
+> Available for brother/community members joining later
 
 ---
 
