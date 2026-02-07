@@ -216,23 +216,46 @@
 
 ### 14. Agent Roles
 
-**Which specialist agents excite you most? (Ranked)**
+**Core Agent Rankings (1-5 scale):**
 
-From voice notes, mentioned agents for **Card Delivery App business**:
+| Agent | Rank | Notes |
+|-------|------|-------|
+| 🔒 Security Sentinel | 5 | Daily audits, vulnerability checks on new skills |
+| 💪 Health Analyst | 5 | Weekly reports, integrate with WHOOP data |
+| ⚙️ Task Executor | 5 | Background automation, TAT task management |
+| ✍️ Creative Writer | 4 | Blog content, documentation |
+| 💰 Financial Advisor | 4 | Spending analysis, budget tracking |
+| 🎯 Career Coach | 4 | FP&A insights, career guidance |
+
+**Additional Agents Requested:**
+
+**Life Coach** 
+- Can this merge with Career Coach? Or separate?
+- Focus: Personal development, motivation, consistency
+
+**Personal Trainer / Fitness Coach**
+- Interview to establish training schedule
+- Keep on track with workouts
+- Build up points of weakness
+- Monitor injuries (calf issues, over-training prevention)
+
+**Business Agents (for Card App):**
 - Customer support agent
-- Social media management agent  
-- Stock ordering/data management agent
+- Social media management agent
+- Stock ordering / data management agent
 - Website design agent
-
-**To rank:** Security, Health Analyst, Task Executor, Creative Writer, Financial Advisor, Career Coach
 
 ### 15. Interaction Style
 
-**Preference:**
-> *To be answered*
-- Single chat window with all agents?
-- Separate channels for different domains?
-- Agents only report critical issues?
+**Channel Structure:**
+> **Separate channels for different agents** — they should have their own dedicated spaces
+
+**Daily Sync:**
+> Agents should **meet and share notes daily** — cross-domain intelligence sharing
+
+**Alternative options considered:**
+- Single chat window with all agents? ❌ No
+- Agents only report critical issues? ❌ No — wants active engagement
 
 ### 16. Cost Sensitivity
 
