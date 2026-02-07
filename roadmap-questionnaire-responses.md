@@ -288,7 +288,29 @@
 
 ### 18. Research Pipeline
 
-**Daily Ongoing Research:**
+**### Food Database Integration (In Progress)
+
+**Status:** Nutrition tracking fields being added to Notion Habit Tracker
+**Approach:** Option A - Daily nutrition totals added to existing daily entries
+
+**Fields to track:**
+- Total Calories (daily target: TBD based on goals)
+- Protein (g) (target: 120g/day)
+- Fat (g)
+- Carbs (g)
+- Sugar (g)
+- Food Summary (text description)
+- Key Micronutrients (multi-select)
+
+**Next Steps:**
+1. Complete Notion database integration (technical setup)
+2. Populate historical data from food log
+3. After 2 weeks of data: analyze trends and suggest diet adjustments
+4. Option B: Migrate to detailed meal-level database if needed
+
+---
+
+Daily Ongoing Research:**
 
 | Topic | Frequency | Delivery |
 |-------|-----------|----------|
