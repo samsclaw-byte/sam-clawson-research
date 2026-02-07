@@ -161,23 +161,43 @@
 
 ---
 
-## ⏳ SECTION 4: SECURITY & INFRASTRUCTURE
+## ✅ SECTION 4: SECURITY & INFRASTRUCTURE
 
 ### 11. Risk Tolerance
 
 **How security-conscious are you?**
-> *To be answered*
+> **Very security-conscious.** Wants to pay a lot of time and attention to security.
+
+**Security Agent Vision:**
+> - When assigning new skills, the security agent should:
+>   - Check for vulnerabilities
+>   - Research if the skill was tested and proven safe
+>   - Advise before installation
+
+**Daily Security Debrief:**
+> - Every morning: "Where are the vulnerabilities? How can we improve?"
+> - Bit by bit improvements over time
 
 **What's your worst-case scenario if systems fail?**
-> *To be answered*
+> "If this is not secure or if this fails then I'd be very worried"
+> Would prevent further integrations (like personal email) until proven secure
 
 ### 12. Data Concerns
 
 **Comfort level with cloud APIs?**
-> *To be answered*
+> - Health data: Okay if breached (not ideal, but can live with it)
+> - Financial data: NOT okay — this is the red line
+> - "Mostly local, local-based storage"
+
+**Data classification:**
+| Data Type | Integration | Risk Tolerance |
+|-----------|-------------|----------------|
+| Health/Fitness | ✅ Yes | Can accept breach |
+| Personal email | ⏳ Conditional | Only if proven secure over months |
+| Financial | ❌ No | Hard limit |
 
 **Preference: Local-first or cloud-integrated?**
-> *To be answered*
+> Local-first storage preferred
 
 ### 13. Backup Strategy
 
@@ -186,6 +206,9 @@
 
 **How much data loss is acceptable?**
 > *To be answered*
+
+**Security Blind Spots:**
+> "I'm not a security expert so I would like to know where my blind spots are"
 
 ---
 

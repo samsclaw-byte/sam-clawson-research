@@ -185,5 +185,50 @@ Sam explains the higher-level reasoning behind the AI partnership — above the 
 
 ---
 
+---
+
+## File 5: Security & Infrastructure (file_20)
+
+**Recorded:** February 7, 2026  
+**Topics:** Security agent, daily debriefs, data concerns, local storage
+
+---
+
+**Key Points:**
+
+**Security Agent Role:**
+- Wants a dedicated security advisor/agent
+- Before installing any new skill, security agent should:
+  - Check online for vulnerabilities
+  - Verify if skill was tested and proven safe
+  - Advise on installation
+
+**Daily Security Debrief:**
+- Every morning review
+- Questions: "Where are the vulnerabilities? How can we improve?"
+- Bit by bit improvements over time
+
+**Data Risk Tolerance:**
+| Type | Tolerance |
+|------|-----------|
+| Health data | Can accept breach (not ideal, but survivable) |
+| Personal email | Only after months of proven security |
+| Financial | Hard no — this is the line |
+
+**Storage Preference:**
+- Mostly local, local-based storage
+
+**Worst Case:**
+- "If this is not secure or if this fails then I'd be very worried"
+- Security failure would prevent further integrations
+
+**Self-awareness:**
+- "I'm not a security expert so I would like to know where my blind spots are"
+
+**Raw Transcription:**
+> So next section's security. Now I really want to pay a lot of time and attention to security so I think like a security advisor etc. would be a good move. Now some of the thoughts I have here is when we go about our installations for example when we assign you a new skill that really should be going to this security agent and he should advise, he should check online and see if there's any vulnerabilities with the skill, whether it was tested and proven that it was working well and safe. I would also like to have a security debrief every day every morning and I think that takes multiple forms. Well I think the primary form is that we look at our own system and it says, where are the vulnerabilities, how can we improve it and bit by bit we improve it. Now in terms of data, I'm only doing integrations to data sources I don't mind if there's leaks etc. So I know that includes health information and work but it's not financial so I'm okay with that if it does get breached. I mean I don't want it to happen but if it does happen then I can live with it. I would say mostly local, local-based storage etc. And honestly I'm not a security expert so I would like to know where my blind spots are. But yeah, I want to keep prioritizing because if this is not secure or if this fails then I'd be very worried and also I would do more integrations such as my personal email. If this proves to be secure over the course of multiple months.
+
+---
+
 *Transcribed by Clawson using Whisper Tiny (local)*  
 *Date: February 7, 2026*
