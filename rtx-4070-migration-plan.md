@@ -216,24 +216,39 @@ If issues arise, abort by 12:00, revert to WSL, try again next weekend.
 
 ---
 
-## 🤔 Decision Needed
+## ✅ DECISION MADE: OPTION A - FULL MIGRATION
 
-**Option A: Full Migration** (Recommended)
-- Move everything to native Windows
-- Best GPU performance
-- Clean slate, modern setup
-- 4-6 hour migration window
+**Selected:** February 7, 2026  
+**Rationale:** 10-20x transcription speed, clean modern setup, aligns with co-development vision
+
+---
+
+## 🚦 Pre-Migration Status
+
+| Step | Status |
+|------|--------|
+| Decision made | ✅ Complete |
+| Backup plan created | ✅ Complete |
+| Migration guide written | ✅ Complete |
+| Schedule migration date | ⏳ Pending |
+| Execute migration | ⏳ Pending |
+
+---
+
+## 📋 Alternative Options (Not Selected)
 
 **Option B: Hybrid** (Safer)
 - Keep WSL for OpenClaw
 - Use Windows GPU only for Whisper
 - No migration risk
 - Slightly more complex
+- *Not selected — want full GPU integration*
 
 **Option C: Status Quo**
 - Stay on WSL (no GPU)
 - Wait for better WSL GPU support (maybe never)
 - Continue slow transcription
+- *Not selected — transcription speed critical for workflow*
 
 ---
 
