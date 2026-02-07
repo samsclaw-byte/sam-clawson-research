@@ -69,14 +69,57 @@
 > *To be answered*
 
 **Track anything for Noah/Theo?**
-> *To be answered*
+> Not immediately — Theo is 3 weeks old, Noah is older. Focus is on Sam's health first.
 
 ### 7. Automation Level
 
 **Ideal tracking balance:**
 > **"Simplicity with complexity"** — Want dashboards, tracking, integration, but don't want to maintain multiple apps. AI as the integration layer.
 
-> Preference: Move toward fully automated (wear devices) with AI handling the aggregation and insights.
+> **Full automation preference:** Least friction possible, maximum API integration. Don't mind sending nutrition images, but want everything else automated.
+
+> Sophie is still recovering post-pregnancy — will take a few months before she can join. But if Sam can show her tracked data and progress, she might get inspired to join later.
+
+---
+
+## ✅ SECTION 2B: HEALTH DETAILS (From Voice Note)
+
+### Current State
+
+**How do you feel about your health?**
+> "Around half, I'm feeling overweight and definitely not fit."
+
+**Injury history:**
+> - Calf injuries from over-training
+> - Tendency to run too much when enthusiastic
+> - Pattern: Very enthusiastic → over-train → injury → fall off
+
+### Fitness Goals
+
+**What do you want to achieve?**
+> - Improve fitness (currently "around half")
+> - Lose weight (104kg starting point)
+> - Broad fitness regime: weights + aerobic
+> - Avoid over-training injuries
+
+**Professional help desired:**
+> - Session with fitness instructor/trainer
+> - Nutritionist consultation
+> - Structured plan with tracking
+
+### Tracking Requirements
+
+**What metrics matter?**
+> - Calories in / calories out
+> - Resting heart rate
+> - Fitness metrics (WHOOP data)
+> - Progress over time
+> - Injury prevention monitoring
+
+**Integration needs:**
+> - All data aggregated in one place
+> - AI handling the heavy lifting
+> - Visual dashboards showing progress
 
 ---
 
