@@ -316,10 +316,16 @@
 ### 19. Shared Systems
 
 **What should Sophie see/access?**
-> *To be answered*
+> Not initially — focusing on proving the system works first
+> **Future:** If this proves successful, Sophie could come on board
 
 **Shared habit tracking?**
-> *To be answered*
+> Not yet — Sophie recovering post-pregnancy, will take a few months
+> Once Sam shows progress/tracking, she might get inspired to join
+
+**Brother's Involvement:**
+> Brother getting OpenClaw setup soon (today/this weekend)
+> Interested in collaborative/shared working — is there a way to share/work together?
 
 ### 20. Life Context
 
@@ -327,6 +333,11 @@
 > - Return from paternity leave (last day today!)
 > - Brother joining the AI journey (today)
 > - Potential business experiment in 2026
+
+**Career Status:**
+> 8 years in current job, secure position
+> **Values security** — no plans to move
+> Wants side hustle alongside stable job
 
 **How will Theo/Noah needs change in 6 months?**
 > Theo is 3 weeks old — needs will evolve rapidly
@@ -337,10 +348,12 @@
 ### 21. Personal Time
 
 **When do you do best work?**
-> *To be answered*
+> **Pockets of time** — morning and evening
+> Not reliable blocks, but windows available
 
 **When should AI stay silent?**
-> *To be answered*
+> **No need to stay quiet** — follow cron schedule
+> AI should respond when it can, Sam will engage when he has pockets of time
 
 ---
 
@@ -350,12 +363,15 @@
 
 **Serious about building this?**
 > Yes — mentioned as primary business idea for 2026
+> **Side hustle** alongside secure 8-year job (values security)
 
 **Timeline?**
 > First half of 2026
+> Prove concept first, then scale
 
 **Solo or find co-founder?**
 > Multi-agent approach — use AI agents for different functions
+> May explore human collaboration later, but AI-first approach for MVP
 
 ### 23. Multi-Agent Life Support
 
